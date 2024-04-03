@@ -1,0 +1,6 @@
+﻿  Task 2.cpp
+  Task 3.cpp
+  Generating Code...
+Task 2.obj : error LNK2005: "__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) already defined in Task 1.obj
+Task 2.obj : error LNK2005: WinMain already defined in Task 1.obj
+F:\Projects\CODSOFT\x64\Debug\CODSOFT.exe : fatal error LNK1169: one or more multiply defined symbols found
